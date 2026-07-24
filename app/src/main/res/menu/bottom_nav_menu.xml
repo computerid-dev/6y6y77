@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_keuangan"
+        android:icon="@drawable/ic_finance_tab"
+        android:title="@string/tab_keuangan" />
+    <item
+        android:id="@+id/nav_pengaturan"
+        android:icon="@drawable/ic_settings_tab"
+        android:title="@string/tab_pengaturan" />
+    <item
+        android:id="@+id/nav_developer"
+        android:icon="@drawable/ic_dev_tab"
+        android:title="@string/tab_developer" />
+    <item
+        android:id="@+id/nav_info"
+        android:icon="@drawable/ic_info_tab"
+        android:title="@string/tab_info" />
+</menu>
